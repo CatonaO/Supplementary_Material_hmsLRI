@@ -16,3 +16,21 @@ interactDirectional true
 visibility full
 description Poised Interactions 
 
+track NarrowpeaksChromMap
+bigDataUrl narrowpeaks.bb
+shortLabel NPM
+longLabel NarrowPeaksChromatinMap
+type bigBed
+visibility dense
+ItemRgb On
+description ChromatinMap
+
+
+track BroadpeaksChromMap
+bigDataUrl broadpeaks.bb
+shortLabel BPM
+longLabel BroadPeaksChromatinMap
+type bigBed
+visibility dense
+ItemRgb On
+description ChromatinMap
