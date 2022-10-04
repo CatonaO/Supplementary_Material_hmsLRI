@@ -24,12 +24,3 @@ type bigBed
 visibility dense
 ItemRgb On
 description ChromatinMap
-
-track BroadpeaksChromMap
-bigDataUrl broadpeaks.bb
-shortLabel BPM
-longLabel BroadPeaksChromatinMap
-type bigBed
-visibility dense
-ItemRgb On
-description ChromatinMap
