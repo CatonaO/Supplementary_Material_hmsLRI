@@ -22,5 +22,4 @@ shortLabel NPM
 longLabel NarrowPeaksChromatinMap
 type bigBed
 visibility dense
-ItemRgb On
 description ChromatinMap
